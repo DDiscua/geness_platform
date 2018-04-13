@@ -1,0 +1,63 @@
+.epilepsy-1 {
+    color: #DCBCD9;
+}
+
+.epilepsy-2 {
+    color: #BA73AE;
+}
+
+.epilepsy-3 {
+    color: #5E0052;
+}
+
+.epilepsy-4 {
+    color: #290138;
+}
+
+.epilepsy-5 {
+    color: #740093;
+}
+
+/*Buttons*/
+
+.ant-btn-primary {
+    background: #5E0052;
+    border-color: #BA73AE;
+}
+
+.ant-btn-primary:active, .ant-btn-primary.active, .ant-btn-primary:hover, .ant-btn-primary.hover {
+    color: #fff;
+    background-color: #BA73AE;
+    border-color: #5E0052;
+}
+
+/*Forms other Elements*/
+
+/*Inputs*/
+
+.ant-input:focus {
+    border-color: #BA73AE;
+}
+
+.ant-input:hover {
+    border-color: #5E0052;
+}
+
+/*Checkbox*/
+
+.ant-checkbox-input {
+    background: #BA73AE;
+}
+
+.ant-checkbox-checked:after {
+    border-color: #5E0052;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner, .ant-checkbox-indeterminate .ant-checkbox-inner {
+    background-color: #BA73AE;
+    border-color: #DCBCD9;
+}
+
+.ant-checkbox-wrapper:hover .ant-checkbox-inner, .ant-checkbox:hover .ant-checkbox-inner, .ant-checkbox-input:focus+.ant-checkbox-inner {
+    border-color: #DCBCD9;
+}

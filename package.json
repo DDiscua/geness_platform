@@ -1,0 +1,35 @@
+{
+  "name": "geness",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.4.1",
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.7.0",
+    "bootstrap": "^4.1.0",
+    "moment": "^2.22.0",
+    "pdfmake": "^0.1.36",
+    "react": "^16.3.1",
+    "react-anime": "^2.1.0",
+    "react-block-ui": "^1.1.1",
+    "react-dom": "^16.3.1",
+    "react-particles-js": "^2.1.2",
+    "react-redux": "^5.0.7",
+    "react-redux-toastr": "^7.2.3",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-transition-group": "^2.3.0",
+    "reactstrap": "^5.0.0",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.3.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "set PORT=9000 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

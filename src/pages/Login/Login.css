@@ -1,0 +1,26 @@
+.login-img {
+    width: 50%;
+    height: auto;
+}
+
+.loginContainer {
+    background: #141414;
+}
+
+.loginForm {
+    background: #fff;
+}
+
+.loginFormContainer {
+    margin: 0 auto;
+    padding: 20px 30px 10px 20px;
+}
+
+.logoImg {
+    margin: 0 auto;
+    padding: 5%;
+}
+
+.login-form-button{
+    min-width: 100px;
+}
